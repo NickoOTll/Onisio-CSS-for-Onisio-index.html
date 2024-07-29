@@ -1,0 +1,31 @@
+/* CSS for the body */
+body {
+    background-color: #3e2d48; /* Example background color */
+    color: #ffffff; /* Example text color */
+}
+
+/* CSS for the nav */
+nav {
+    height: 6000px;
+    width: 200px;
+    float: left;
+    padding: 5px;
+    line-height: 30px;
+}
+
+/* CSS for the footer */
+footer {
+    text-align: center;
+    margin-right: 200px;
+}
+
+/* CSS for the meme image */
+#memeImage {
+    margin-right: 200px;
+    width: 400px;
+}
+
+/* CSS for the header */
+h1 {
+    text-align: center;
+}
